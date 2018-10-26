@@ -8,6 +8,8 @@ public class GitCommApplication {
 
     public static void main(String[] args1) {
         System.out.println("2223");
+        System.out.println("git test");
+
         if(true){
 
         }
