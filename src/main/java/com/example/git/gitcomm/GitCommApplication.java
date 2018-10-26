@@ -10,6 +10,7 @@ public class GitCommApplication {
         System.out.println("2223");
         System.out.println("git test");
         System.out.println("git test111");
+        System.out.println("合并");
         if(false){
 
         }
