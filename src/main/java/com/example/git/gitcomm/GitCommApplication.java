@@ -10,7 +10,7 @@ public class GitCommApplication {
         System.out.println("2223");
         System.out.println("git test");
         System.out.println("git test111");
-        if(true){
+        if(false){
 
         }
         SpringApplication.run(GitCommApplication.class, args1);
